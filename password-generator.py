@@ -1,5 +1,5 @@
 # python programming internship in codsoft 
-# task 3 -- Password Generator
+# task  -- Password Generator
 
 
 import random
