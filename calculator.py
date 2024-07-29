@@ -1,5 +1,5 @@
 # python programming internship in codsoft 
-# task 1 -- calculator
+# task  -- calculator
 
 while True:
     print("\nSelect operation:")
