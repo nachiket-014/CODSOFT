@@ -1,5 +1,5 @@
 # python programming internship in codsoft 
-# task 2 -- rock-paper-scissors
+# task  -- rock-paper-scissors
 import random
 
 options = ['rock', 'paper', 'scissors']
