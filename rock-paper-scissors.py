@@ -23,9 +23,9 @@ while True:
                     print("computer Wins !!")
             elif computer=="paper":
                 if user =="stone":
-                    print ("User Wins !!")
-                else :
                     print ("Computer Wins !!")
+                else :
+                    print ("User Wins !!")
             elif computer=="scissors":
                 if user =="stone":
                     print("User Wins !!")
